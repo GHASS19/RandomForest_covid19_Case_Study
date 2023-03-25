@@ -34,4 +34,4 @@ In this case study, you'll use Random Forest to understand the scope of the Coro
 
 ## 5. Summary
 
- In this case study we demonstrate the performance ability even with only a few features and almost all of them being highly correlated with each other.
+ In this case study we demonstrate the performance ability even with only a few features and almost all of them being highly correlated with each other. Our Random Forest Model predicted 86.5% of the patient's state correctly.
