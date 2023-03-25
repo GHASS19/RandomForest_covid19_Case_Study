@@ -3,15 +3,15 @@
 In this case study, you'll use Random Forest to understand the scope of the Coronavirus using data from December and January of 2020. We want to predict the state of patient. We will predict if they are released from the hospital, isolated or deceased from the virus.
 
 ## 1. Explore the Data
-- State of Patient
-isolated    1791
-released     307
-deceased      32
+- State of Patient:
+- isolated    1791
+- released     307
+- deceased      32
 - We have an imbalanced data set, as many of the patients are in isolation compared to the other two states of the patient's health.
 ## 2. Data Wrangling
 
 - What to do with missing values? Mode & Mean
-- 
+
 ## 3. Visualizations of the Data
 
 - Heatmap of the all the variables for the Covid 19 Data from South Korea
