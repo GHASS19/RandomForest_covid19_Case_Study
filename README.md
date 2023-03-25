@@ -1,11 +1,17 @@
 # Random Forest Covid 19
 
-In this case study, you'll use Random Forest to understand the scope of the Coronavirus using data from December and January of 2020. This case
-study is an excellent example of how data scientists can help share crucial insights about occurrences that have an impact around the world.
+In this case study, you'll use Random Forest to understand the scope of the Coronavirus using data from December and January of 2020. We want to predict the state of patient. We will predict if they are released from the hospital, isolated or deceased from the virus.
 
 ## 1. Explore the Data
+- State of Patient
+isolated    1791
+released     307
+deceased      32
+- We have an imbalanced data set, as many of the patients are in isolation compared to the other two states of the patient's health.
 ## 2. Data Wrangling
+
 - What to do with missing values? Mode & Mean
+- 
 ## 3. Visualizations of the Data
 
 - Heatmap of the all the variables for the Covid 19 Data from South Korea
@@ -24,7 +30,7 @@ study is an excellent example of how data scientists can help share crucial insi
 - Random Forest: f1-score=0.832
 - Our model was very good at predicting if a patient was released.
 
-![image](https://user-images.githubusercontent.com/86930309/227742137-c589287d-032b-4ba8-912a-907940279920.png)
+![image](https://user-images.githubusercontent.com/86930309/227742304-e59d322a-ec48-4199-a89e-e1639e8ad453.png)
 
 ## 5. Summary
 
