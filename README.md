@@ -7,7 +7,7 @@ In this case study, you'll use Random Forest to understand the scope of the Coro
 - isolated    1791
 - released     307
 - deceased      32
-- We have an imbalanced data set, as many of the patients are in isolation compared to the other two states of the patient's health.
+- We have an imbalanced data set. Many of the patients are in isolation compared to the other two states of the patient's health.
 ## 2. Data Wrangling
 
 - What to do with missing values? Mode & Mean
