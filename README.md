@@ -1,6 +1,6 @@
 # Random Forest Covid 19
 
-In this case study, you'll use Random Forest to understand the scope of the Coronavirus using data from December and January of 2020. We want to predict the state of patient. We will predict if they are released from the hospital, isolated or deceased from the virus.
+In this case study, I will use Random Forest to understand the scope of the Coronavirus using data from December and January of 2020. We want to predict the state of patient. We will predict if they are released from the hospital, isolated or deceased from the virus.
 
 ## 1. Explore the Data
 - State of Patient:
