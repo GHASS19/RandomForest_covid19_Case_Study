@@ -1,4 +1,4 @@
-# Random Forest Covid 19
+# Random Forest Multiclass Model Covid-19
 
 In this case study, I will use Random Forest to understand the scope of the Coronavirus using data from December and January of 2020. We want to predict the state of patient. I will predict if they are released from the hospital, isolated or deceased from the virus.
 
@@ -7,7 +7,7 @@ In this case study, I will use Random Forest to understand the scope of the Coro
 - isolated    1791
 - released     307
 - deceased      32
-- We have an imbalanced data set. Many of the patients are in isolation compared to the other two states of the patient's health.
+- I have an imbalanced data set. Many of the patients are in isolation compared to the other two states of the patient's health.
 ## 2. Data Wrangling
 
 - What to do with missing values? Mode & Mean
